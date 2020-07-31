@@ -1,0 +1,6 @@
+applications:
+- name: community_MR08Jul
+  command: npm start
+  path: .
+  memory: 128M
+  instances: 1
